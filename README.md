@@ -210,9 +210,11 @@ Les visualisations sont réalisées avec Streamlit directement dans Snowflake. C
 ---
 
 ## 📂 Structure du Repo
---
+
 ├── README.md        ← Ce fichier
+
 └── TP.ipynb         ← Notebook Snowflake avec le code complet
+
 ---
 
 ## 👥 Répartition des tâches
