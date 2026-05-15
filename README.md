@@ -207,7 +207,6 @@ ORDER BY nb_offres DESC;
 
 Les visualisations sont réalisées avec Streamlit directement dans Snowflake. Chaque analyse dispose d'un onglet interactif avec un graphique en barres.
 
----
 
 ### Analyse 1 :
 
@@ -218,6 +217,8 @@ Les visualisations sont réalisées avec Streamlit directement dans Snowflake. C
 ### Analyse 4 :
 
 ### Analyse 5 :
+
+---
 
 ## 📂 Structure du Repo
 
