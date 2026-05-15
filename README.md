@@ -168,7 +168,7 @@ GROUP BY c.company_size, taille
 ORDER BY c.company_size;
 ```
 
-**Résultat :** Les entreprises de 501 à 1000 employés publient le plus d'offres avec 5 588 postes, suggérant que les entreprises en pleine croissance recrutent plus activement.
+**Résultat :** Les très grandes entreprises de 5000+ employés publient le plus d'offres avec 5 127 postes, suivies des entreprises de 501-1000 employés avec 2 794 offres. Les très petites structures de 1-10 employés restent les moins actives avec seulement 1 124 offres.
 
 ### Analyse 4 — Répartition par secteur d'activité
 
