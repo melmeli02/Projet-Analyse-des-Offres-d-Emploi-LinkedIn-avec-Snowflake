@@ -127,6 +127,7 @@ GROUP BY ci.industry, jp.title
 QUALIFY classement <= 10
 ORDER BY ci.industry, nb_offres DESC;
 ```
+**Résultat :** Dans le secteur Accounting, le poste 'Tax Manager, Family Office' arrive en tête avec 72 offres publiées, suivi des postes de Tax Intern et Tax Staff avec 70 offres chacun. Cela reflète une forte demande dans les métiers de la fiscalité et de la comptabilité
 
 ### Analyse 2 — Top 10 des postes les mieux rémunérés par industrie
 
@@ -144,6 +145,7 @@ GROUP BY ci.industry, jp.title
 QUALIFY classement <= 10
 ORDER BY ci.industry, salaire_max_moyen DESC;
 ```
+**Résultat :** Dans le secteur Accounting, le Senior Manager en fiscalité internationale arrive en tête avec un salaire maximum moyen de 303 100, suivi du Manager en Risk & Controls Consulting à 223 100. Cela confirme que les postes de management senior sont les mieux rémunérés.
 
 ### Analyse 3 — Répartition par taille d'entreprise
 
