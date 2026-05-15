@@ -484,14 +484,16 @@ Les offres Full-time représentent la grande majorité des publications, ce qui 
 
 └── TP.ipynb         ← Notebook Snowflake avec le code complet
 
+└── streamlit         ← Dossier avec les codes streamlit
+
 ---
 
 ## 👥 Répartition des tâches
 
 | Membre | Responsabilités |
 |--------|----------------|
-| Melissa | Setup Snowflake, chargement des données, analyses |
-| Jade | Visualisations Streamlit |
+| Melissa TRESO | Setup Snowflake, chargement des données, analyses |
+| Jade IOUALALEN| Visualisations Streamlit |
 
 ---
 
