@@ -224,7 +224,3 @@ Les visualisations sont réalisées avec Streamlit directement dans Snowflake. C
 
 ---
 
-## 📬 Soumission
-
-Livrable envoyé à : `axel@logbrain.fr`
-Intitulé : `ESME_EVALUATION_ARCHITECTURE_BIGDATA_2026`
