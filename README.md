@@ -209,6 +209,16 @@ Les visualisations sont réalisées avec Streamlit directement dans Snowflake. C
 
 ---
 
+### Analyse 1 :
+
+### Analyse 2 :
+
+### Analyse 3 :
+
+### Analyse 4 :
+
+### Analyse 5 :
+
 ## 📂 Structure du Repo
 
 ├── README.md        ← Ce fichier
